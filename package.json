@@ -1,0 +1,27 @@
+{
+  "name": "datamigration",
+  "version": "1.0.0",
+  "description": "Test App",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanjareck/NodeSchedular_DataMigration.git"
+  },
+  "author": "Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanjareck/NodeSchedular_DataMigration/issues"
+  },
+  "homepage": "https://github.com/amanjareck/NodeSchedular_DataMigration#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "debug": "*",
+    "socket.io": "*" ,
+    "engine": "*",
+    "node-mailer": "0.7.1"
+  }
+}
